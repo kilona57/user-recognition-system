@@ -1,0 +1,23 @@
+[
+    {
+        "email": "svet123a@mail.ru",
+        "password": "123password"
+    },
+    {
+        "email": "perzovpavel@gmail.com",
+        "password": "perez6pass"
+    },
+    {
+        "email": "ribakovaira@yandex.ru",
+        "password": "tapochec265pass",
+        "age": 12
+    },
+    {
+        "email": "kondrashka04@gmail.com",
+        "password": "125password"
+    },
+    {
+        "email": "lusia@mail.ru",
+        "password": "967pass"
+    }
+]
